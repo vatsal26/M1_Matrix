@@ -16,7 +16,7 @@ Folder             | Description
 `2_Design`         | Structural and Behaviour Diagrams
 `3_Implementation` | Main code
 `4_Test_plan`      | Test plans and procedures
-`5 Images          | All required images
+`5 Images`          | All required images
 
 ## Contributors List and Summary
 
