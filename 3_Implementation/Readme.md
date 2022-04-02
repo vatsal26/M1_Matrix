@@ -1,8 +1,11 @@
 # Implementation
 
 # To run this Project
-* make all
-* make run
+* Clone this repository
+* Go to 3_Implementation folder
+* Make sure your system meets all software and hardware requirements
+* Run "make all" to compile
+* Run "make run" to execute
 
 ## Folder Structure
 Folder        | description
