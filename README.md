@@ -1,7 +1,9 @@
 # MATRIX Project
 ![Matrix](https://github.com/vatsal26/M1_Matrix/blob/master/1_Requirements/Matrix.png)
 
-
+# Badges
+![Codiga](https://api.codiga.io/project/32449/score/svg)
+![Codiga](https://api.codiga.io/project/32449/status/svg)
 
 
 
