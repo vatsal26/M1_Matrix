@@ -1,0 +1,5 @@
+![Diagrams](https://github.com/vatsal26/M1_Matrix/blob/master/2_Design/StructureDiagram/StructureDiagram1.png)
+![Diagrams](https://github.com/vatsal26/M1_Matrix/blob/master/2_Design/StructureDiagram/StructureDiagram2.png)
+![Diagrams](https://github.com/vatsal26/M1_Matrix/blob/master/2_Design/BehavioralDiagram/finalow.png)
+![Diagrams](https://github.com/vatsal26/M1_Matrix/blob/master/2_Design/BehavioralDiagram/behavior.png)
+![UMLdiagram](https://github.com/vatsal26/M1_Matrix/blob/master/2_Design/UML.png)
