@@ -18,7 +18,7 @@ Folder             | Description
 
   Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 ---------|----------------|----------------|---------------|-------------|--------------
- Vatsal A | F_01, F_02, F_03, F_04, F_05, F_06, F_07   | None    | None   |7  |7    
+ Vatsal  | F_01, F_02, F_03, F_04, F_05, F_06, F_07   | None    | None   |7  |7    
 
 | Feature Id | Feature |
 | -----------|---------|
