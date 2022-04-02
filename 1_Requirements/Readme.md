@@ -26,7 +26,7 @@ Users who work on a laptop or desktop computer to work with matrix calculations 
 
 ## SWOT ANALYSIS
 
-![SWOT-Sample](https://github.com/hemanthasapu/256889-miniproject-ltts/blob/main/1_Requirements/SWOT.png)
+![SWOT-Sample](https://github.com/vatsal26/M1_Matrix/blob/master/1_Requirements/SWOT.png)
 
 # 4W&#39;s and 1&#39;H
 
