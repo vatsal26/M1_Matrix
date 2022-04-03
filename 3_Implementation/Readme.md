@@ -4,6 +4,9 @@
 * Clone this repository
 * Go to 3_Implementation folder
 * Make sure your system meets all software and hardware requirements
+* Run "make BUILD"
+* And then "make RUN"
+* -------Another Way-------
 * Run "make all" to compile
 * Run "make run" to execute
 
