@@ -5,8 +5,9 @@
 ![Codiga](https://api.codiga.io/project/32449/score/svg)
 ![Codiga](https://api.codiga.io/project/32449/status/svg)
 [![Code Quality - Static Code - Cppcheck](https://github.com/vatsal26/M1_CalculatorMatrix/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/vatsal26/M1_CalculatorMatrix/actions/workflows/cppcheck.yml)
+[![Contribution Check - Git Inspector](https://github.com/vatsal26/M1_CalculatorMatrix/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/vatsal26/M1_CalculatorMatrix/actions/workflows/gitinspector.yml)
 
-
+[![Unit Testing - Unity](https://github.com/vatsal26/M1_CalculatorMatrix/actions/workflows/unity.yml/badge.svg)](https://github.com/vatsal26/M1_CalculatorMatrix/actions/workflows/unity.yml)
 
 
 ## Folder Structure 
