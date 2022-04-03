@@ -1,3 +1,7 @@
+BUILD:
+	gcc main.c src/matrix_addition.c src/matrix_subtraction.c src/matrix_multiplication.c src/matrix_determinant.c src/matrix_inverse.c src/matrix_transpose.c src/matrix_operations.c -Iinc -Iunity  -o main.out
+RUN:
+	./main.out
 # Name of the project
 PROJECT_NAME = Matrix_Calculator
 
@@ -68,7 +72,4 @@ coverageCheck:
 clean:
 	rm -rf $(PROJECT_OUTPUT) $(TEST_OUTPUT) $(DOCUMENTATION_OUTPUT)
 
-BUILD:
-	gcc main.c src/matrix_addition.c src/matrix_subtraction.c src/matrix_multiplication.c src/matrix_determinant.c src/matrix_inverse.c src/matrix_transpose.c src/matrix_operations.c -Iinc -Iunity  -o main.out
-RUN:
-	./main.out
+
