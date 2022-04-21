@@ -2,12 +2,11 @@
 ![Matrix](https://github.com/vatsal26/M1_Matrix/blob/master/1_Requirements/Matrix.png)
 
 # Badges
-![Codiga](https://api.codiga.io/project/32449/score/svg)
-![Codiga](https://api.codiga.io/project/32449/status/svg)
-[![Code Quality - Static Code - Cppcheck](https://github.com/vatsal26/M1_CalculatorMatrix/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/vatsal26/M1_CalculatorMatrix/actions/workflows/cppcheck.yml)
-[![Contribution Check - Git Inspector](https://github.com/vatsal26/M1_Matrx/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/vatsal26/M1_Matrx/actions/workflows/gitinspector.yml)
-
-[![Unit Testing - Unity](https://github.com/vatsal26/M1_Matrx/actions/workflows/unity.yml/badge.svg)](https://github.com/vatsal26/M1_Matrx/actions/workflows/unity.yml)
+[![C/C++ CI - Build Status](https://github.com/vatsal26/M1_Matrix/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/vatsal26/M1_Matrix/actions/workflows/c-cpp.yml)
+[![Code Quality - Static Code - Cppcheck](https://github.com/vatsal26/M1_Matrix/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/vatsal26/M1_Matrix/actions/workflows/cppcheck.yml)
+[![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/vatsal26/M1_Matrix/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/vatsal26/M1_Matrix/actions/workflows/CodeQuality_Dynamic.yml)
+[![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/vatsal26/M1_Matrix/actions/workflows/codeql.yml/badge.svg)](https://github.com/vatsal26/M1_Matrix/actions/workflows/codeql.yml)
+[![Contribution Check - Git Inspector](https://github.com/vatsal26/M1_Matrix/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/vatsal26/M1_Matrix/actions/workflows/gitinspector.yml)
 
 ## Folder Structure 
 Folder             | Description
