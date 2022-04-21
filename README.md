@@ -7,7 +7,8 @@
 [![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/vatsal26/M1_Matrix/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/vatsal26/M1_Matrix/actions/workflows/CodeQuality_Dynamic.yml)
 [![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/vatsal26/M1_Matrix/actions/workflows/codeql.yml/badge.svg)](https://github.com/vatsal26/M1_Matrix/actions/workflows/codeql.yml)
 [![Contribution Check - Git Inspector](https://github.com/vatsal26/M1_Matrix/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/vatsal26/M1_Matrix/actions/workflows/gitinspector.yml)
-
+[![codinga](https://api.codiga.io/project/32927/score/svg)]
+[![codinga](https://api.codiga.io/project/32927/status/svg)]
 ## Folder Structure 
 Folder             | Description
 -------------------| -----------------------------------------
